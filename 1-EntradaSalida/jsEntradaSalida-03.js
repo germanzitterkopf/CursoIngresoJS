@@ -5,7 +5,7 @@ function mostrar()
 {   
 	var nombreIngresado;
 	
-	nombreIngresado=document.getElementById('txtIdNombre').value;
+	nombreIngresado = document.getElementById('txtIdNombre').value;
 	console.log(nombreIngresado)
 	alert(nombreIngresado);
 
