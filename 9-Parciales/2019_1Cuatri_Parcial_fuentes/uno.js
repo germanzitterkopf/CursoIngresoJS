@@ -2,7 +2,7 @@
 AUTOR.: German Zitterkopf
 --------------------------
 PARCIAL.:2019 N° 1
-
+---------------------------
 */
 function mostrar()
 { 
