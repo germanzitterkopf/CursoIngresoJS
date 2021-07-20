@@ -1,7 +1,7 @@
 /*
  AUTOR.: Zitterkopf German Dario
 ---------------------------------
- EJERCICIO.: TP N°  3
+ EJERCICIO.: PARCIAL N°  3
 ---------------------------------
 
 

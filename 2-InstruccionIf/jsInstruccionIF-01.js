@@ -1,6 +1,27 @@
+/*
+AUTOR.: Zitterkopf German
+-------------------------
+ejercicio.: if N° 1
+-------------------------
+-------------------------
+
+
+*/
+
+
 function mostrar()
-{
-	//tomo la edad  
-	alert("ok");
+{ 	
+    var  años;
+    
+ 
+   año = document.getElementById("txtIdEdad").value;
+   
+   año = parseInt(año);
+
+    if(año==15)
+  	    { alert("niña bonita");
+                 }
+  else 
+	alert(" ok");
 
 }//FIN DE LA FUNCIÓN
